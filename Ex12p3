@@ -22,5 +22,3 @@ cin>>j;
 cout<<i<<"to the power of"<<j<<" is= "<<pow(i,j);
 
 }
-تمرین اسلاید ۱۲ 
-سوال ۲
